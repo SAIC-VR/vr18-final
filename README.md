@@ -10,21 +10,21 @@
 
 ### Important dates
 
-> All deadlines are at the end of class with the exception of the presentations, which will be randomly determined for in-class presentation.
+> Most deadlines are at the end of class with the exception of the proposal and presentations
 
 |Date |Activity|
 | ----| ----- |
-Nov 21 | Proposal Due
+Nov 21 | Proposal @ 11:59
 Nov 27 | Revision 1 
 Dec 4 | Revision 2 
 Dec 6 | HMD testing and setup
 Dec 11 | Final Revision, project builds and submission
-Dec 13 | Presentations 
+Dec 13 | Presentations (random in class presentation)
 Dec 13 | Documentation
 
 
 ## Project Description 
-In this project you will create a virtual reality experience for time travel.  Given time constrains you will need to choose the level of detail and size of your effort.  The only constrains are you must have two different time experiences [its up to you to define what a a time travel experience means]. 
+In this project you will create a virtual reality experience for time travel.  Given time constraints you will need to choose the level of detail and size of your effort.  The only constraints are you must have two different time experiences [its up to you to define what a a time travel experience means]. 
 
 ## Storyline
 This can be a continuation of your first project, but you still need to write down a few paragraphs of the narrative (250-300 words) to introduce your storyline. Describe the back-story. 
@@ -61,7 +61,6 @@ The contribution to the final project grade is listed behind each section and ea
 _______
 
 ## Project Proposal [10%]
-* Due: **Wednesday November 21, 2018 @ 11:59pm**
 
 Projects required some planning, this includes a summary of the project, the goals of your project, and a plan on how you will achieve the goals. Proposal should include the following:
 
