@@ -14,7 +14,7 @@
 
 |Date |Activity|
 | ----| ----- |
-Nov 21 | Proposal @ 11:59
+Nov 21 | Proposal @ 11:59 pm
 Nov 27 | Revision 1 
 Dec 4 | Revision 2 
 Dec 6 | HMD testing and setup
@@ -27,7 +27,7 @@ Dec 13 | Documentation
 In this project you will create a virtual reality experience for time travel.  Given time constraints you will need to choose the level of detail and size of your effort.  The only constraints are you must have two different time experiences [its up to you to define what a a time travel experience means]. 
 
 ## Storyline
-This can be a continuation of your first project, but you still need to write down a few paragraphs of the narrative (250-300 words) to introduce your storyline. Describe the back-story. 
+This can be a continuation of your first project, but you still need to write down a few paragraphs of the narrative (250-300 words) to introduce your storyline. 
 
 Discuss the elements you plan to use to generate the feelings and emotions presented by the environment. 
 What was the *feeling* at the beginning of the experience? What techniques do you plan to use to change that to the feeling of the experience? Try to describe the setting of your environment. 
@@ -46,7 +46,7 @@ How does the experience evolve? If your VR experience does not have an actual st
 
 What are the interactions that you expect the user to experience in the virtual envrionment? Do they grab, touch, enable actions, sounds, animations, etc. with their presence? What is the goal?
 
-Remember still need to produce a **storyboard** even if you are not developing a narrative type experience.
+Remember you still need to produce a **storyboard** even if you are not developing a narrative type experience.
 
 # Project Requirements
 
@@ -56,13 +56,13 @@ There are multiple required components to each project, which are described in m
 > - Project Execution [70%]
 > - Project Report [20%]
 
-The contribution to the final project grade is listed behind each section and each section is required to receive a passing grade for the project.
+**The contribution to the final project grade is listed behind each section and each section is required to receive a passing grade for the project.**
 
 _______
 
 ## Project Proposal [10%]
 
-Projects required some planning, this includes a summary of the project, the goals of your project, and a plan on how you will achieve the goals. Proposal should include the following:
+Projects require some planning, this includes a summary of the project, the goals of your project, and a plan on how you will achieve the goals. The proposal should include the following:
 
  - Title of the project
  - Your name
@@ -77,22 +77,23 @@ Fill out the [Project01 Proposal](https://goo.gl/forms/vWfRcBTA8Oqx1Z8D2) form b
 
 Implementation of project is the execution of the milestones to achieve the project goal(s).  As you develop your project, you will be applying an iterative process that will likely require the adjustment of milestones and goals.  These adjustments should be captured in your projects final report.
 
-### Presentations
-> December 13 during class time
+## Presentations
+> Each project will be presented in class, based on a random selection. 10 minutes are assigned for the presentation and 5 for Q&A. Everyone shuold be prepared to provide positve feedback and constructive critisism.
 
+Before your presentation you must:
 - **Test** your application on the computer that will be connected to the VR device (Vive, Oculus, cardboard, etc.)
 - Make an **executable bundle** before the presentation
 - Be ready to present your project by just cliking on the executable. No Unity editor at this point.
 
-## Project Report [20%] 
-> December 13 before class
+## Project Report [20%]
 
 Report on project, simple web page with a summary of effort. 
 > Report should include the following: 
  - Title of the project
  - Author
  - Abstract/summary of what you want to achieve and why, this should only be a few sentences long and will be used to guide the evaluation of project
+ - Video capture of the project
  - Resources used (e.g. Unity and HTC Vive, Google Cardboard and Unreal Engine)
  - Results of project, how you did with milestones and dates and any adjustments you needed to make.
  - Lessons learned in the project
- - Video capture of the project
+
